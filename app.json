@@ -1,0 +1,15 @@
+{
+  "name": "my-project",
+  "displayName": "my-project",
+  "expo": {
+    "name": "my-project",
+    "slug": "my-project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "text.web"
+    }
+  }
+}
